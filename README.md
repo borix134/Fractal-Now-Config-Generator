@@ -1,6 +1,7 @@
 # Fractal-Now-Config-Generator
 This is a python script that will generate config files for the FractalNow fractal generation software.  The generated files produced by the script are completely random, and can be used alone to generate fractals.
-FractalNow:
+FractalNow (script is pretty useless without this):
+http://fractalnow.sourceforge.net/
 Credit:
 Nick Panagakis
 License:
